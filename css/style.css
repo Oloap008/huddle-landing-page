@@ -14,9 +14,11 @@
 }
 
 body {
+  min-height: 100vh;
+  min-height: 100svh;
+
   display: grid;
   grid-template-rows: auto 1fr auto;
-  height: 100vh;
 
   background-color: var(--clr-primary-600);
   background-image: url(../assets/images/bg-desktop.svg);
@@ -132,7 +134,6 @@ button:focus-visible {
 
 @media (max-width: 1120px) {
   body {
-    height: 100%;
     text-align: center;
     padding: 2.125rem
   }
