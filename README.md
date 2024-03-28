@@ -13,7 +13,7 @@ Users should be able to:
 
 ## Screenshot
 
-![](./screenshot.jpg)
+![](./assets/images/huddle-landing-page-co.netlify.app_.png)
 
 ## Links
 
